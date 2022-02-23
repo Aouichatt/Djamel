@@ -19,28 +19,7 @@ http://maxq.live:800/33123/111/480
 http://maxq.live:800/33123/111/481
 #EXTINF:-1,BEIN SPORTS 7 HD
 http://maxq.live:800/33123/111/482
-
-#EXTINF:-1,BEIN 1 PREMIUM SD
-http://maxq.live:800/33123/111/493
-#EXTINF:-1,BEIN 2 PREMIUM SD
-http://maxq.live:800/33123/111/483
-#EXTINF:-1,BEIN 3 PREMIUM SD
-http://maxq.live:800/33123/111/484
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://maxq.live:800/33123/111/485
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://maxq.live:800/33123/111/486
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://maxq.live:800/33123/111/487
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://maxq.live:800/33123/111/488
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://maxq.live:800/33123/111/489
-#EXTINF:-1,BEIN SPORTS 6 SD
-http://maxq.live:800/33123/111/490
-#EXTINF:-1,BEIN SPORTS 7 SD
-http://maxq.live:800/33123/111/491
-
+*****
 #EXTINF:-1,BEIN 1 PREMIUM HD
 http://maxq.live:800/555/111/492
 #EXTINF:-1,BEIN 2 PREMIUM HD
@@ -61,28 +40,7 @@ http://maxq.live:800/555/111/480
 http://maxq.live:800/555/111/481
 #EXTINF:-1,BEIN SPORTS 7 HD
 http://maxq.live:800/555/111/482
-
-#EXTINF:-1,BEIN 1 PREMIUM SD
-http://maxq.live:800/555/111/493
-#EXTINF:-1,BEIN 2 PREMIUM SD
-http://maxq.live:800/555/111/483
-#EXTINF:-1,BEIN 3 PREMIUM SD
-http://maxq.live:800/555/111/484
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://maxq.live:800/555/111/485
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://maxq.live:800/555/111/486
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://maxq.live:800/555/111/487
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://maxq.live:800/555/111/488
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://maxq.live:800/555/111/489
-#EXTINF:-1,BEIN SPORTS 6 SD
-http://maxq.live:800/555/111/490
-#EXTINF:-1,BEIN SPORTS 7 SD
-http://maxq.live:800/555/111/491
-
+*****
 #EXTINF:-1,beIN Sport 01 (240P)
 http://red.ipfox.org:8080/1234/12345678/31600
 #EXTINF:-1,beIN Sport 02 (240P)
