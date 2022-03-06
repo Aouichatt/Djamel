@@ -1,52 +1,46 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 Premium HD" tvg-logo="" group-title="beIN Sports ",beIN Sports 1 Premium HD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/1
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 Premium SD" tvg-logo="" group-title="beIN Sports ",beIN Sport 1 Premium SD
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/2
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium HD" tvg-logo="" group-title="beIN Sports ",beIN Sport 2 Premium HD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/3
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 5" tvg-logo="" group-title="beIN Sports ",beIN Sport HD 5
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/9
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium SD" tvg-logo="" group-title="beIN Sports ",beIN Sport 2 Premium SD
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/4
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 Premium HD" tvg-logo="" group-title="beIN Sports ",beIN Sports 3 Premium HD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/5
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 Premium SD" tvg-logo="" group-title="beIN Sports ",beIN Sport 3 Premium SD
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/6
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="" group-title="beIN Sports ",beIN Sports 4 HD
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/7
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 4" tvg-logo="" group-title="beIN Sports ",beIN Sport SD 4
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 5" tvg-logo="" group-title="beIN Sports ",beIN Sport SD 5
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/10
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 6" tvg-logo="" group-title="beIN Sports ",beIN Sport SD 6
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/12
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 7" tvg-logo="" group-title="beIN Sports ",beIN Sport HD 7
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/13
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 7" tvg-logo="" group-title="beIN Sports ",beIN Sport SD 7
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/14
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="" group-title="beIN Sports ",beIN Sports 1 HD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/15
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="" group-title="beIN Sports ",beIN Sports 2 HD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/16
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="" group-title="beIN Sports ",beIN Sports 3 HD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/17
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 1 Low" tvg-logo="" group-title="beIN Sports ",Bein Sports PR 1 Low
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/18
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 2 Low" tvg-logo="" group-title="beIN Sports ",Bein Sports PR 2 Low
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/19
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 3 Low" tvg-logo="" group-title="beIN Sports ",Bein Sports PR 3 Low
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/20
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS NBA" tvg-logo="" group-title="beIN Sports ",beINSPORTS NBA
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/21
-#EXTINF:-1 tvg-id="" tvg-name="bein sport News" tvg-logo="" group-title="beIN Sports ",bein sport News
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/22
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="" group-title="beIN Sports ",beIN Sports 4 HD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/7
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 5" tvg-logo="" group-title="beIN Sports ",beIN Sport 5 HD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/9
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 6" tvg-logo="" group-title="beIN Sports ",beIN Sport 6 HD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/11
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 7" tvg-logo="" group-title="beIN Sports ",beIN Sport 7 HD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/13
+*****
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 Premium SD" tvg-logo="" group-title="beIN Sports ",beIN Sport 1 Premium SD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium SD" tvg-logo="" group-title="beIN Sports ",beIN Sport 2 Premium SD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/4
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 Premium SD" tvg-logo="" group-title="beIN Sports ",beIN Sport 3 Premium SD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/6
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="" group-title="beIN Sports ",beIN Sports 1 SD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/23
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="" group-title="beIN Sports ",beIN Sports 2 SD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/24
 #EXTINF:-1 tvg-id="" tvg-name="bein Sport 3 SD" tvg-logo="" group-title="beIN Sports ",bein Sport 3 SD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/25
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 4" tvg-logo="" group-title="beIN Sports ",beIN Sport 4 SD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 5" tvg-logo="" group-title="beIN Sports ",beIN Sport 5 SD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/10
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 6" tvg-logo="" group-title="beIN Sports ",beIN Sport 6 SD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/12
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 7" tvg-logo="" group-title="beIN Sports ",beIN Sport 7 SD
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/14
+*******
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 HEVC" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681456.png" group-title="beIN Sports ",beIN SPORTS PREMIUM1 HEVC
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/26
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 HEVC" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681457.png" group-title="beIN Sports ",beIN SPORTS PREMIUM2 HEVC
@@ -61,16 +55,26 @@ http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/30
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/31
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS4 H265" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1681459.png" group-title="beIN Sports ",beIN SPORTS4 H265
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/32
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 1 Low" tvg-logo="" group-title="beIN Sports ",Bein Sports PR 1 Low
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/18
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 2 Low" tvg-logo="" group-title="beIN Sports ",Bein Sports PR 2 Low
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/19
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 3 Low" tvg-logo="" group-title="beIN Sports ",Bein Sports PR 3 Low
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/20
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS NBA" tvg-logo="" group-title="beIN Sports ",beINSPORTS NBA
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/21
+#EXTINF:-1 tvg-id="" tvg-name="bein sport News" tvg-logo="" group-title="beIN Sports ",bein sport News
+http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/22
 #EXTINF:-1 tvg-id="" tvg-name="Bein Extra HD1" tvg-logo="" group-title="beIN Sports ",Bein Extra HD1
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/33
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 XTRA" tvg-logo="" group-title="beIN Sports ",Bein Sports 2 XTRA
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/34
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 6" tvg-logo="" group-title="beIN Sports ",beIN Sport HD 6
-http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/11
 #EXTINF:-1 tvg-id="" tvg-name="beIN 1 Premium SD" tvg-logo="" group-title="beIN Sports ",beIN 1 Premium SD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/86
 #EXTINF:-1 tvg-id="" tvg-name="Bein PR 1 Low" tvg-logo="" group-title="beIN Sports ",Bein PR 1 Low
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/87
+****
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1" tvg-logo="" group-title="Other Sports",SSC 1
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/40
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2" tvg-logo="" group-title="Other Sports",SSC 2
