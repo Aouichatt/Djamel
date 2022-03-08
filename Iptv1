@@ -1,4 +1,59 @@
 #EXTM3U
+#EXTINF:-1,beIN Sports Premium 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/2
+#EXTINF:-1,beIN Sports Premium 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/3
+#EXTINF:-1,beIN Sports Premium 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/4
+#EXTINF:-1,beIN Sports Pre 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/12
+#EXTINF:-1,beIN Sports Pre 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/13
+#EXTINF:-1,beIN Sports Pre 3 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/14
+#EXTINF:-1,beIN Sports Premium 1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/36
+#EXTINF:-1,beIN Sports Premium
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/37
+#EXTINF:-1,beIN Sports 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/5
+#EXTINF:-1,beIN Sports 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/6
+#EXTINF:-1,beIN Sports 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/7
+#EXTINF:-1,beIN Sports 4 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/8
+#EXTINF:-1,beIN Sports 5 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/9
+#EXTINF:-1,beIN Sports 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/15
+#EXTINF:-1,beIN Sports 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/16
+#EXTINF:-1,beIN Sports 3 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/17
+#EXTINF:-1,beIN Sports 4 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/18
+#EXTINF:-1,beIN Sports 5 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/19
+****
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 Premium HD" tvg-logo="" group-title="beIN Sports ",beIN Sports 1 Premium HD
 http://mo3ad.xyz:8080/mo3ad5M1sHH0/mo3ad5M1sHH0/1
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium HD" tvg-logo="" group-title="beIN Sports ",beIN Sport 2 Premium HD
