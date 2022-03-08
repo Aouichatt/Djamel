@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1,beIN Sport Premium 01 (1080P)
+#EXTINF:-1,beIN Sport Premium 1
 http://red.ipfox.org:8080/1234/12345678/31498
-#EXTINF:-1,beIN Sport Premium 02 (1080P)
+#EXTINF:-1,beIN Sport Premium 2
 http://red.ipfox.org:8080/1234/12345678/31497
-#EXTINF:-1,beIN Sport Premium 03 (1080P)
+#EXTINF:-1,beIN Sport Premium 3
 http://red.ipfox.org:8080/1234/12345678/31496
-#EXTINF:-1,beIN Sport 01 (1080P)
+#EXTINF:-1,beIN Sport 1
 http://red.ipfox.org:8080/1234/12345678/31493
-#EXTINF:-1,beIN Sport 02 (1080P)
+#EXTINF:-1,beIN Sport 2
 http://red.ipfox.org:8080/1234/12345678/31492
-#EXTINF:-1,beIN Sport 03 (1080P)
+#EXTINF:-1,beIN Sport 3
 http://red.ipfox.org:8080/1234/12345678/31491
-#EXTINF:-1,beIN Sport 04 (1080P)
+#EXTINF:-1,beIN Sport 4
 http://red.ipfox.org:8080/1234/12345678/31490
-#EXTINF:-1,beIN Sport 05 (1080P)
+#EXTINF:-1,beIN Sport 5
 http://red.ipfox.org:8080/1234/12345678/31489
-#EXTINF:-1,beIN Sport 06 (1080P)
+#EXTINF:-1,beIN Sport 6
 http://red.ipfox.org:8080/1234/12345678/31488
-#EXTINF:-1,beIN Sport 07 (1080P)
+#EXTINF:-1,beIN Sport 7
 http://red.ipfox.org:8080/1234/12345678/31487
 *********
 http://red.ipfox.org:8080/1234/12345678/32830
